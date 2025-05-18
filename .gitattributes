@@ -1,0 +1,1 @@
+pneumonia_chest_xray_vit_v8/model.safetensors filter=lfs diff=lfs merge=lfs -text
